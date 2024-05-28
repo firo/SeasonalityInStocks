@@ -32,25 +32,6 @@ Questa applicazione, realizzata con Streamlit, esegue un'analisi della stagional
    - La componente stagionale viene calcolata per periodi di 5 anni, 10 anni e per l'ultimo anno.
    - Viene visualizzato il grafico della componente stagionale per questi periodi insieme al valore di chiusura dell'anno corrente.
 
-## Utilizzo
-
-1. **Installazione delle Dipendenze**
-   - Assicurati di avere installato Python e le seguenti librerie:
-     ```bash
-     pip install yfinance pandas statsmodels numpy matplotlib streamlit
-     ```
-
-2. **Esecuzione dell'Applicazione**
-   - Per avviare l'applicazione, esegui il seguente comando:
-     ```bash
-     streamlit run nome_del_tuo_script.py
-     ```
-   - Sostituisci `nome_del_tuo_script.py` con il nome del file che contiene il codice.
-
-3. **Interazione con l'Applicazione**
-   - Inserisci il simbolo del titolo azionario nell'input fornito.
-   - Visualizza i dati storici e l'analisi della stagionalità.
-
 ## Note
 
 - La decomposizione STL richiede una frequenza regolare dei dati. Assicurati che i dati siano preparati correttamente prima di eseguire la decomposizione.
