@@ -1,6 +1,6 @@
 yfinance
 pandas
-statsmodels.api
+statsmodels
 numpy
-matplotlib.pyplot
+matplotlib
 streamlit
