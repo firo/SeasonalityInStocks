@@ -38,6 +38,11 @@ Questa applicazione, realizzata con Streamlit, esegue un'analisi della stagional
 - I dati storici sono limitati al periodo a partire dal 1° gennaio 2010 fino alla data odierna.
 - L'applicazione mostra i dati solo a scopo didattico e non deve essere utilizzata per prendere decisioni finanziarie.
 
+Provalo ora qui: [https://firo-2timesnegativein.streamlit.app/](https://firo-seasonalityinstocks.streamlit.app/)
+
+<a href="https://www.buymeacoffee.com/firo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=firo&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
 ## Licenza
 
 - Questo progetto è sotto licenza MIT.
